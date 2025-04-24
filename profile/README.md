@@ -34,7 +34,7 @@
 
 ## 💬 Контакты и сообщество
 
-[![Telegram](https://img.shields.io/badge/Telegram-@zirkon__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zirkonpw)
+[![Telegram](https://img.shields.io/badge/Telegram-@dotZirkon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zirkonpw)
 [![Email](https://img.shields.io/badge/Email-contact@zirkon.pw-orange?style=for-the-badge&logo=gmail)](mailto:contact@zirkon.pw)
 [![Сайт Zirkon](https://img.shields.io/badge/Web-zirkon.pw-black?style=for-the-badge&logo=firefox-browser)](https://zirkon.pw)
 
