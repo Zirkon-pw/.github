@@ -34,8 +34,7 @@
 
 ## 💬 Контакты и сообщество
 
-[![Telegram](https://img.shields.io/badge/Telegram-@zirkon__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zirkon_dev)
-[![GitHub Discussions](https://img.shields.io/badge/Обсуждения-На_GitHub-blueviolet?style=for-the-badge&logo=github)](https://github.com/zirkon-project/zirkon/discussions)
+[![Telegram](https://img.shields.io/badge/Telegram-@zirkon__dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zirkonpw)
 [![Email](https://img.shields.io/badge/Email-contact@zirkon.pw-orange?style=for-the-badge&logo=gmail)](mailto:contact@zirkon.pw)
 [![Сайт Zirkon](https://img.shields.io/badge/Web-zirkon.pw-black?style=for-the-badge&logo=firefox-browser)](https://zirkon.pw)
 
