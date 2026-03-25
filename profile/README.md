@@ -14,31 +14,8 @@
 
 ---
 
-## ✨ О проекте
-
-**Zirkon** — это сообщество и open-source-экосистема, где технологии становятся выразительным средством, а разработка — способом творить.
-
-Мы объединяем людей, которым интересно создавать: не потому что надо, а потому что хочется.
-
-> Наш подход — минимум барьеров, максимум идей.
-
----
-
-## 🌍 Что мы делаем
-
-- Развиваем инструменты для креативной разработки
-- Поддерживаем проекты на стыке инженерии и искусства
-- Строим открытую и дружелюбную культуру вокруг embedded, DIY и open hardware
-
----
-
-## 💬 Контакты и сообщество
-
 [![Telegram](https://img.shields.io/badge/Telegram-@dotZirkon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zirkonpw)
-[![Email](https://img.shields.io/badge/Email-contact@zirkon.pw-orange?style=for-the-badge&logo=gmail)](mailto:contact@zirkon.pw)
-[![Сайт Zirkon](https://img.shields.io/badge/Web-zirkon.pw-black?style=for-the-badge&logo=firefox-browser)](https://zirkon.pw)
 
----
 
 ## 🤝 Присоединяйтесь
 
